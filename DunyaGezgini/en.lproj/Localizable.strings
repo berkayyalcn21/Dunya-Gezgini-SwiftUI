@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  DunyaGezgini
+
+  Created by Berkay on 13.07.2022.
+  
+*/
+
+
+"CONVERSION_DEGREES_CELCIUS" = "degrees Celsius";
+"CONVERSION_FAHRENHEIT" = "fahrenheit";
+"CONVERSION_IS_ACTUALLY" = "is actually";
+"CONVERSION_TEXT_FIELD_PLACEHOLDER" = "value";
+"MAP_CITY_ISTANBUL" = "Istanbul";
+"MAP_CITY_LONDON" = "London";
+"TAB_CONVERSION" = "Conversion";
+"TAB_MAP" = "Map";
+

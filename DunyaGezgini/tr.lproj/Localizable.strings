@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  DunyaGezgini
+
+  Created by Berkay on 13.07.2022.
+  
+*/
+
+
+"CONVERSION_DEGREES_CELCIUS" = "derece";
+"CONVERSION_FAHRENHEIT" = "fahrenheit";
+"CONVERSION_IS_ACTUALLY" = "aslında";
+"CONVERSION_TEXT_FIELD_PLACEHOLDER" = "değer";
+"MAP_CITY_ISTANBUL" = "İstanbul";
+"MAP_CITY_LONDON" = "Londra";
+"TAB_CONVERSION" = "Çevirici";
+"TAB_MAP" = "Harita";
+
