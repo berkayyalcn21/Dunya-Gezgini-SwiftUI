@@ -21,7 +21,6 @@ struct MapView: View {
     ]
     
     @State var region: MKCoordinateRegion = regions[0]
-    
     @State var selectedIndex = 0
     
     var body: some View {
